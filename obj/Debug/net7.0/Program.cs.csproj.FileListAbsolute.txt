@@ -1,0 +1,15 @@
+C:\Users\Aluno\Desktop\Program.cs\bin\Debug\net7.0\Program.cs.exe
+C:\Users\Aluno\Desktop\Program.cs\bin\Debug\net7.0\Program.cs.deps.json
+C:\Users\Aluno\Desktop\Program.cs\bin\Debug\net7.0\Program.cs.runtimeconfig.json
+C:\Users\Aluno\Desktop\Program.cs\bin\Debug\net7.0\Program.cs.dll
+C:\Users\Aluno\Desktop\Program.cs\bin\Debug\net7.0\Program.cs.pdb
+C:\Users\Aluno\Desktop\Program.cs\obj\Debug\net7.0\Program.cs.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\Program.cs\obj\Debug\net7.0\Program.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\Program.cs\obj\Debug\net7.0\Program.cs.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\Program.cs\obj\Debug\net7.0\Program.cs.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\Program.cs\obj\Debug\net7.0\Program.cs.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Program.cs\obj\Debug\net7.0\Program.cs.dll
+C:\Users\Aluno\Desktop\Program.cs\obj\Debug\net7.0\refint\Program.cs.dll
+C:\Users\Aluno\Desktop\Program.cs\obj\Debug\net7.0\Program.cs.pdb
+C:\Users\Aluno\Desktop\Program.cs\obj\Debug\net7.0\Program.cs.genruntimeconfig.cache
+C:\Users\Aluno\Desktop\Program.cs\obj\Debug\net7.0\ref\Program.cs.dll
